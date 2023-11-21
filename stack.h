@@ -11,8 +11,8 @@
 // or here in Polish: https://pl.wikipedia.org/wiki/Struktura_(programowanie)
 typedef struct stack 
 {
-    int* _s;
-    size_t _sz;
+    int* _s; // corresponds to an array holding all the elements.
+    size_t _sz; // corresponds to current size of stack.
 } stackType;
 
 void stackInit(stackType* s);

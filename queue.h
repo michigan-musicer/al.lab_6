@@ -8,7 +8,7 @@
 // or here in Polish: https://pl.wikipedia.org/wiki/Struktura_(programowanie)
 typedef struct queue 
 {
-    int* _s;
+    int* _q;
     size_t _sz;
 } queueType;
 
