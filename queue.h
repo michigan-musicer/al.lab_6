@@ -5,6 +5,7 @@
 
 // dynamic array implementation of queue
 // Read about structs here: https://learn.microsoft.com/en-us/cpp/c-language/structure-declarations?view=msvc-170
+// or here in Polish: https://pl.wikipedia.org/wiki/Struktura_(programowanie)
 typedef struct queue 
 {
     int* _s;
