@@ -8,9 +8,9 @@ You should need to **add all files (.h and .c) to the project** in CodeBlocks; o
 
 ---
 
-Download all files in this repository and upload them to a CodeBlocks project. Write and complete functions in `lab04.c`. 
+Download all files in this repository and upload them to a CodeBlocks project. Write and complete functions in `queue.c` based on the documentation in `stack.c`, `stack.h`, and `queue.h`. You can use the main function in `lab06.c` for testing.
 
-If you would like to run these files in a Unix environment outside of CodeBlocks, you can run `make lab04` in the command line. This will compile and execute your program for you. You will need to ensure that `make` and `gcc` are both installed in your environment. 
+If you would like to run these files in a Unix environment outside of CodeBlocks, you can run `make lab06` in the command line. This will compile and execute your program for you. You will need to ensure that `make` and `gcc` are both installed in your environment. 
 
 Solution file will be uploaded after class, exact time / date TBD.
 
